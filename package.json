@@ -1,0 +1,24 @@
+{
+  "name": "tdd-node-js",
+  "version": "1.0.0",
+  "description": "A starter project for building a nodejs package",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shibut12/tdd-nodejs-module.git"
+  },
+  "author": "Shibu Thannikkunnath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shibut12/tdd-nodejs-module/issues"
+  },
+  "homepage": "https://github.com/shibut12/tdd-nodejs-module#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1",
+    "sinon": "^5.0.7"
+  }
+}
